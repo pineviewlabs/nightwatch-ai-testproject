@@ -1,0 +1,16 @@
+{
+  "name": "nightwatch-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nightwatch": "^3.3.1",
+    "nightwatch-openai-plugin": "^0.1.1"
+  }
+}
